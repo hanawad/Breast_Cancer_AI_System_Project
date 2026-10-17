@@ -3,5 +3,6 @@ venv/
 dataset/
 __pycache__/
 *.pyc
-*.pth
 .env
+*.pth
+!models/vision_model.pth
